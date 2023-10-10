@@ -1,0 +1,7 @@
+CREATE TABLE alumno(
+legajo VARCHAR(11) NOT NULL,
+nombre VARCHAR(40) NOT NULL,
+apellido VARCHAR(40) NOT NULL,
+email VARCHAR(40) NOT NULL,
+PRIMARY KEY (legajo)
+);

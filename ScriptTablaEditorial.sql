@@ -1,0 +1,5 @@
+CREATE TABLE editorial(
+codigo INT(10) NOT NULL AUTO_INCREMENT,
+nombre VARCHAR(40) NOT NULL,
+PRIMARY KEY (codigo)
+);
